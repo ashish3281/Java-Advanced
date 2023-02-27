@@ -8,3 +8,7 @@ Servlet Config
 SessionTracking
 </pre>
 Second topic is JSP
+<pre>
+basic attribute
+mvc
+</pre>
